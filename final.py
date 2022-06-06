@@ -29,9 +29,6 @@ clf.score(x,WL)
 # In[45]:
 
 
-#dot_data=tree.export_graphviz(clf,out_file=None)
-#graph=pydotplus.graph_from_dot_data(dot_data)
-#graph.write_pdf('warrior.pdf')
 
 
 # In[46]:
